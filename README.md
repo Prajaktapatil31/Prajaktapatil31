@@ -5,16 +5,16 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajaktapatil31&label=Profile%20views&color=0e75b6&style=flat" alt="prajaktapatil31" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Prajaktapatil31](https://github.com/Prajaktapatil31)
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/Prajaktapatil31)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prajakta-patil31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajakta-patil31" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/skillglimmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skillglimmer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@SkillGlimmer"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skillglimmer" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prajaktasayaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prajaktasayaji" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prajaktasayajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prajaktasayajee" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/prajaktasayajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prajaktasayajee" height="30" width="40" /></a>
