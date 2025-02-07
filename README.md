@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Prajakta Patil</h1>
 <h3 align="center">On a journey of continuous learning and development!</h3>
 
@@ -17,11 +16,12 @@
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/Prajaktapatil31)
   
 <h3 align="left">Codding Profiles:</h3>
+<a href="https://auth.geeksforgeeks.org/user/prajakta31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prajakta31" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/prajaktasayaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prajaktasayaji" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/patilprajakta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patilprajakta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prajaktasayajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prajaktasayajee" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/prajaktasayajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prajaktasayajee" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/patilprajakta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patilprajakta" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prajakta31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prajakta31" height="30" width="40" /></a>
+
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
@@ -39,3 +39,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/prajakta-patil31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajakta-patil31" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@SkillGlimmer"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skillglimmer" height="30" width="40" /></a>
+
+ 
