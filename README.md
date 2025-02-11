@@ -17,7 +17,7 @@
   
 <h3 align="left">Codding Profiles:</h3>
 <a href="https://auth.geeksforgeeks.org/user/prajakta31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prajakta31" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prajaktasayaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prajaktasayaji" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prajaktasayaji" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="profile" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/patilprajakta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patilprajakta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prajaktasayajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prajaktasayajee" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/prajaktasayajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prajaktasayajee" height="30" width="40" /></a>
