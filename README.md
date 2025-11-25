@@ -1,43 +1,76 @@
+<h1 align="center">Hi there! 👋 I'm Prajakta Patil</h1>
+<h3 align="center">Full Stack Developer in Training | Passionate about building and continuous learning 🚀</h3>
 
-<h1 align="center">Hi 👋, I'm Prajakta Patil</h1>
-<h3 align="center">On a journey of continuous learning and development!</h3>
-
-
-
-<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajaktapatil31&label=Profile%20views&color=0e75b6&style=flat" alt="prajaktapatil31" /> </p>
-<h3 align="left">About Me</h3>
-
-- 🔭 I’m B.Tech computer science student and Graduate in 2026.
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👨‍💻 All of my projects are available at [My Projects](https://github.com/Prajaktapatil31)
-  
-<h3 align="left">Codding Profiles:</h3>
-<a href="https://auth.geeksforgeeks.org/user/prajakta31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prajakta31" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prajaktasayaji" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="profile" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/patilprajakta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="patilprajakta" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prajaktasayajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prajaktasayajee" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/prajaktasayajee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prajaktasayajee" height="30" width="40" /></a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prajaktapatil31&label=Profile%20views&color=6a0dad&style=flat" alt="Profile Views"/>
 </p>
-<hr>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<hr>
-<h3>My Github Statistics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajaktapatil31&show_icons=true&locale=en&layout=compact" alt="prajaktapatil31" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajaktapatil31&show_icons=true&locale=en" alt="prajaktapatil31" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktapatil31&" alt="prajaktapatil31" /></p>
-<hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prajakta-patil31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajakta-patil31" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@SkillGlimmer"  target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skillglimmer" height="30" width="40" /></a>
+I'm a dedicated B.Tech Computer Science student, set to graduate in **2026**, on an exciting journey to become a proficient Full Stack Developer. My passion lies in **building projects from the ground up** and **constantly improving my skills** through continuous learning and staying updated with the latest technologies.
 
- 
+Currently, my primary focus is mastering **Full Stack Development** principles and practices to create robust and user-friendly web applications.
+
+---
+
+## ⚡ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,react,mysql,github,vscode,pycharm,eclipse,jupyter&perline=7&theme=dark" alt="My Skills" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B668E?style=flat-square&logo=apache-netbeans&logoColor=white" alt="NetBeans"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajaktapatil31&bg_color=0d1117&color=6a0dad&line=6a0dad&point=ffffff&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prajaktapatil31&show_icons=true&locale=en&theme=dark&hide_border=true&title_color=6a0dad&icon_color=6a0dad&text_color=c7c7c7&rank_label=RANK" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktapatil31&theme=dark&hide_border=true&stroke=6a0dad&ring=6a0dad&side_main=c7c7c7&side_border=404040&date_color=c7c7c7" alt="GitHub Streak" width="48%"/>
+</div>
+
+<br/>
+
+### ⏳ Coding Time & Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prajaktapatil31&theme=dark&layout=compact&hide_border=true&title_color=6a0dad&icon_color=6a0dad&text_color=c7c7c7&bg_color=0d1117&hide_title=true" alt="WakaTime Stats" />
+</div>
+
+---
+
+## 🏆 Competitive Programming Profiles
+
+Actively developing problem-solving and algorithmic skills.
+
+<p align="center">
+  <a href="https://auth.geeksforgeeks.org/user/prajakta31" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=35A253" alt="GFG" style="margin: 5px;"/></a>
+  <a href="https://www.leetcode.com/patilprajakta" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="margin: 5px;"/></a>
+  <a href="https://www.hackerrank.com/prajaktasayajee" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" style="margin: 5px;"/></a>
+  <a href="https://www.codechef.com/users/prajaktasayaji" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" style="margin: 5px;"/></a>
+  <a href="https://codeforces.com/profile/prajaktasayajee" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445CC-522046?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" style="margin: 5px;"/></a>
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/prajakta-patil31" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.youtube.com/@SkillGlimmer" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" style="margin: 10px;"/>
+  </a>
+</p>
