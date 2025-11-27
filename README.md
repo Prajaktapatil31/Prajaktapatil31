@@ -1,8 +1,12 @@
 <!-- <h1 align="center">Hi there! 👋 I'm Prajakta Patil</h1>
 <h3 align="center">Aspiring Full Stack Developer | Passionate about building and continuous learning 🚀</h3> -->
-
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6A00FF&height=90&section=header&text=Prajakta%20Patil%20%E2%9C%A8&fontSize=48&fontColor=FFFFFF&fontAlignY=55"/>
+</p>
+ 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=skyblue&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Prajakta+Patil;Aspiring+Full+Stack+Developer+🚀;Passionate+Learner+%26+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=700&color=83C9F4&center=true&vCenter=true&width=750&height=70&lines=Aspiring+Full+Stack+Developer;Tech+Explorer+%F0%9F%9A%80;Turning+Ideas+Into+Reality+✨;Code+%7C+Create+%7C+Improve" />
 </h1>
 
 <p align="center">
@@ -17,7 +21,7 @@ I'm a dedicated B.Tech Computer Science student, set to graduate in **2026**, on
 
 Currently, my primary focus is mastering **Full Stack Development** principles and practices to create robust and user-friendly web applications.
 
-
+<br>
 
 ## 🏆 Competitive Programming Profiles
 
@@ -31,11 +35,11 @@ Actively developing problem-solving and algorithmic skills.
   <a href="https://www.codechef.com/users/prajaktasayaji" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" style="margin: 5px;"/></a>
 </p>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
+<br>
 
 ## ⚡ Tech Stack & Tools
 
@@ -45,7 +49,7 @@ Actively developing problem-solving and algorithmic skills.
   </a>
 </div>
 
-
+<br>
 
 ## 📈 GitHub Activity Graph
 
