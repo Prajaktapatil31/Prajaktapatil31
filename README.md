@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Prajakta Patil</h1>
-<h3 align="center">Full Stack Developer in Training | Passionate about building and continuous learning 🚀</h3>
+<h3 align="center">Aspiring Full Stack Developer | Passionate about building and continuous learning 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prajaktapatil31&label=Profile%20views&color=6a0dad&style=flat" alt="Profile Views"/>
