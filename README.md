@@ -1,7 +1,6 @@
 <!-- <h1 align="center">Hi there! 👋 I'm Prajakta Patil</h1>
 <h3 align="center">Aspiring Full Stack Developer | Passionate about building and continuous learning 🚀</h3> -->
- 
-<p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=6A00FF&height=90&section=header&text=Prajakta%20Patil%20%E2%9C%A8&fontSize=48&fontColor=FFFFFF&fontAlignY=55"/>
 </p>
  
