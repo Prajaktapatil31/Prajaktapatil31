@@ -30,7 +30,7 @@ Actively developing problem-solving and algorithmic skills.
   <a href="https://www.leetcode.com/patilprajakta" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" style="margin: 5px;"/></a>
   <a href="https://auth.geeksforgeeks.org/user/prajakta31" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=35A253" alt="GFG" style="margin: 5px;"/></a>
   <a href="https://www.hackerrank.com/prajaktasayajee" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" style="margin: 5px;"/></a>
-  <a href="https://codeforces.com/profile/prajaktasayajee" target="_blank"><img src="https://img.shields.io/badge/Codeforces-522046?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" style="margin: 5px;"/></a>
+ // <a href="https://codeforces.com/profile/prajaktasayajee" target="_blank"><img src="https://img.shields.io/badge/Codeforces-522046?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" style="margin: 5px;"/></a>
   <a href="https://www.codechef.com/users/prajaktasayaji" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" style="margin: 5px;"/></a>
 </p>
 
